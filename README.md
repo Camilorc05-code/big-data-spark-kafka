@@ -1,4 +1,3 @@
-Copia y pega este bloque en el editor de GitHub (o en tu archivo `README.md` en VS Code). Al estar dentro de un bloque de código Markdown, mantendrá la estructura, las negritas y los recuadros sin cortarse ni perder formato:
 
 ```markdown
 # Sustentación Práctica de Big Data: Análisis Batch y Procesamiento Streaming
